@@ -1,4 +1,4 @@
-inp='ini sumbernya dari google.com'
+inp=str(input('masukan: ')
 inp=inp.split()
 import re
 for i in inp:
